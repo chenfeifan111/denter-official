@@ -15,7 +15,7 @@
         
         <p class="hero-description">
           一款强大的文件加密管理应用，采用独特的双击回车快速隐藏机制，
-          让您的私密文件安全无忧。支持多种文件类型，跨平台访问，隐私保护专家。
+          让您的私密文件安全无忧。支持多种文件类型，跨平台访问，隐私保护专家
           <strong style="display: block; margin-top: 15px; font-size: 20px; color: #fff;">
             🎉 完全免费，永久免费 🎉
           </strong>
