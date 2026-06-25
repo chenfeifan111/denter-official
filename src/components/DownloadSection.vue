@@ -113,22 +113,7 @@
         </div>
       </div>
 
-      <!-- 平台支持 -->
-      <div class="platform-support">
-        <h3>支持平台</h3>
-        <div class="platforms">
-          <div 
-            v-for="(platform, index) in platforms" 
-            :key="index"
-            class="platform-item"
-            :style="{ animationDelay: `${index * 0.1}s` }"
-          >
-            <div class="platform-icon-large">{{ platform.icon }}</div>
-            <div class="platform-name">{{ platform.name }}</div>
-            <div class="platform-version">{{ platform.version }}</div>
-          </div>
-        </div>
-      </div>
+
 
       <!-- 安装说明 -->
       <div class="installation-guide">

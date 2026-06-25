@@ -11,20 +11,7 @@
             {{ appSlogan }}<br>
             {{ appDescription }}
           </p>
-          <div class="social-links">
-            <a :href="social.github" class="social-link" title="GitHub" target="_blank">
-              <span>🐙</span>
-            </a>
-            <a :href="social.twitter" class="social-link" title="Twitter" target="_blank">
-              <span>🐦</span>
-            </a>
-            <a :href="social.email" class="social-link" title="Email">
-              <span>📧</span>
-            </a>
-            <a :href="social.qq" class="social-link" title="QQ群" target="_blank">
-              <span>💬</span>
-            </a>
-          </div>
+
         </div>
 
         <div class="footer-links">
@@ -65,10 +52,8 @@
       <div class="footer-bottom">
         <div class="copyright">
           <p>© {{ currentYear }} Double Enter. All rights reserved.</p>
-          <p class="tech-stack">Built with ❤️ using Wails & Vue</p>
         </div>
         <div class="footer-badges">
-          <span class="badge">🔒 开源项目</span>
           <span class="badge">🛡️ 隐私优先</span>
           <span class="badge">⚡ 快速安全</span>
         </div>

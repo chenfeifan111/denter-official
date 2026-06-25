@@ -30,41 +30,14 @@ export default {
 
   // 联系方式配置
   contact: {
-    email: 'support@doubleenter.app',       // 🔴 修改为你的邮箱
-    qqGroup: '123456789',                   // 🔴 修改为你的QQ群号
-    github: 'github.com/doubleenter',       // 🔴 修改为你的GitHub地址
+    email: '784372659@qq.com',       // 🔴 修改为你的邮箱
+    qqGroup: '1032031653',                   // 🔴 修改为你的QQ群号
     githubUrl: 'https://github.com/yourusername/double-enter'
   },
 
-  // 社交媒体链接
-  social: {
-    github: 'https://github.com/yourusername/double-enter',  // 🔴 修改
-    twitter: 'https://twitter.com/youraccount',               // 🔴 修改
-    email: 'mailto:support@doubleenter.app',                  // 🔴 修改
-    qq: 'https://qm.qq.com/your-qq-group-link'               // 🔴 修改为QQ群链接
-  },
 
-  // 平台支持信息
-  platforms: [
-    {
-      icon: '🪟',
-      name: 'Windows',
-      version: 'Win 10/11',
-      downloadUrl: '' // 可选：特定平台的下载链接
-    },
-    {
-      icon: '🍎',
-      name: 'macOS',
-      version: '10.15+',
-      downloadUrl: ''
-    },
-    {
-      icon: '🐧',
-      name: 'Linux',
-      version: 'Ubuntu 20.04+',
-      downloadUrl: ''
-    }
-  ],
+
+
 
   // 反馈表单API配置
   feedback: {
