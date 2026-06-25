@@ -13,7 +13,7 @@ export default {
   latestVersion: {
     version: 'v1.0.0',
     date: '2026-06-25',
-    lanzouUrl: 'https://wwatk.lanzouv.com/iGz8m3sv4bmf', // 🔴 修改为实际下载链接
+    lanzouUrl: 'https://wwatk.lanzouv.com/iWY663szimgd', // 🔴 修改为实际下载链接
     description: '这是 Double Enter 的首个正式版本，提供完整的文件加密管理功能。\n\n主要特性：\n• 全新的文件加密管理系统\n• 双击回车快速隐藏功能\n• 404伪装界面保护隐私\n• 支持多种文件类型预览\n• 局域网访问功能\n• 优化了文件上传速度\n• 改进了用户界面体验'
   },
 
@@ -22,7 +22,7 @@ export default {
     {
       version: 'v1.0.0',
       date: '2026-06-25',
-      lanzouUrl: 'https://wwatk.lanzouv.com/iGz8m3sv4bmf', // 🔴 修改为实际下载链接
+      lanzouUrl: 'https://wwatk.lanzouv.com/iWY663szimgd', // 🔴 修改为实际下载链接
       description: '这是 Double Enter 的首个正式版本，提供完整的文件加密管理功能。\n\n主要特性：\n• 全新的文件加密管理系统\n• 双击回车快速隐藏功能\n• 404伪装界面保护隐私\n• 支持多种文件类型预览\n• 局域网访问功能\n• 优化了文件上传速度\n• 改进了用户界面体验'
     },
 
