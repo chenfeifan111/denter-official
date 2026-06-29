@@ -10,12 +10,12 @@
         
         <h1 class="hero-title">
           Double Enter
-          <span class="gradient-text">双击回车，即刻隐藏</span>
+          <span class="gradient-text">双击回车老板键，瞬间隐藏</span>
         </h1>
         
         <p class="hero-description">
-          一款强大的文件加密管理应用，采用独特的双击回车快速隐藏机制，
-          让您的私密文件安全无忧。支持多种文件类型，跨平台访问，隐私保护专家
+          一款强大的文件加密管理应用，内置老板键功能——双击回车键（500ms内连按两次）即可瞬间隐藏窗口，
+          紧急情况下完美保护隐私。支持多种文件类型，跨平台访问，您的私密文件保险箱
           <strong style="display: block; margin-top: 15px; font-size: 20px; color: #fff;">
             🎉 完全免费，永久免费 🎉
           </strong>
@@ -55,7 +55,7 @@
         </div>
         <div class="floating-card card-2">
           <div class="card-icon">⚡</div>
-          <div class="card-text">快速隐藏</div>
+          <div class="card-text">老板键隐藏</div>
         </div>
         <div class="floating-card card-3">
           <div class="card-icon">📱</div>
